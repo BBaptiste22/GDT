@@ -1,0 +1,14 @@
+/* Styles CSS pour la page d'équipes */
+.image-container {
+    position: relative;
+}
+
+.image-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 2rem; /* Taille de la police */
+    text-align: center; 
+}

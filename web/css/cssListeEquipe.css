@@ -1,0 +1,16 @@
+.action-icons {
+    float: right;
+}
+.icon-delete {
+    color: red;
+    cursor: pointer;
+}
+.icon-edit-equipe {
+    color: black;
+    cursor: pointer;
+}
+.icon-edit-joueur {
+    color: black;
+    cursor: pointer;
+    float: right;
+}
